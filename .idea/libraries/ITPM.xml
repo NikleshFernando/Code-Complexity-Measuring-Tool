@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ITPM">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/itpm/newpackage/ITPM.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
